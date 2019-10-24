@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+<IfModule mod_mime.c>
+  AddEncoding gzip .unityweb
+</IfModule>

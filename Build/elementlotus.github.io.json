@@ -1,0 +1,18 @@
+{
+"companyName": "elementLOTUS",
+"productName": "ChefCHEF",
+"productVersion": "1.0",
+"dataUrl": "elementlotus.github.io.data.unityweb",
+"wasmCodeUrl": "elementlotus.github.io.wasm",
+"wasmFrameworkUrl": "elementlotus.github.io.wasm.framework.unityweb",
+"wasmSymbolsUrl": "elementlotus.github.io.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "elementlotus.github.io.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0b2"
+}
